@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Points</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="parse_appid">n4EshTA9CpT1FliYaErvPPbuwUfY5yLuraQLHzT5</string>
+    <string name="parse_appkey">o0ZqPpTReng69iGnqisFrHVNP6I4FHkzQMO96wTC</string>
+
+</resources>
